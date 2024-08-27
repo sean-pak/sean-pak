@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sean Pak</h1>
 <h3 align="center">An indie hacker, ux designer, and product person</h3>
 
-- 📫 How to reach me **sean.mk.pak@gmail.com**
+- 📫 How to reach me: **sean.mk.pak@gmail.com**
 
-- ⚡ Fun fact **I competed at the junior olympics for fencing**
+- ⚡ Fun fact: **I competed at the junior olympics for fencing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
